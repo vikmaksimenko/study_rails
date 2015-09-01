@@ -15,3 +15,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+*.iml
+
+## Directory-based project format:
+.idea/
